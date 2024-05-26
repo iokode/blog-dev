@@ -1,3 +1,8 @@
+= La inteligencia artificial en el ámbito de la programación
+:resume: Le he pedido a una inteligencia artificial que desarrolle una extensión para un famoso software. Esto es lo que ha ocurrido.
+:author: montyclt
+:date:   2022-12-13
+
 El contenido de este blog se escribe en https://daringfireball.net/projects/markdown/[Markdown], pero hace tiempo que llevo dándole vueltas a la idea de cambiar a un formato igualmente ligero, pero algo más potente. Entre otras cosas, me interesa que se trate de un formato extensible. Mi amigo https://www.linkedin.com/in/alejandroquirospascual/[Alejandro Quirós] me recomendó que el echase un vistazo a https://asciidoc.org/[Asciidoc], por lo que he estado durante un tiempo viéndolo y probándolo localmente.
 
 Asciidoc parece tener todo lo que necesito, es un formato de texto ligero que, por defecto, contiene todos los tipos de elemento de Markdown y algunos más, por ejemplo, los https://docs.asciidoctor.org/asciidoc/latest/blocks/admonitions/[_admonitions_], que permiten crear cajas de advertencia o tip.
