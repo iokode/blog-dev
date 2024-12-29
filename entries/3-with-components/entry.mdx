@@ -28,6 +28,30 @@ This is a paragraph.
 >
 > -- <cite>Ivan Montilla</cite>
 
+```cs
+public class Person {
+    private string givenName;
+    private string familyName;
+
+    public string GivenName
+    {
+        get => this.givenName;
+        set => this.givenName = value;
+    }
+
+    public string FamilyName
+    {
+        get => this.familyName;
+        set => this.familyName = value;
+    }
+
+    public string FullName
+    {
+        get => GivenName + " " + FamilyName;
+    }
+}
+```
+
 <XPost author="martoutatech" id="1804864292879016139"/>
 
 <Alert severity="note">
