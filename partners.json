@@ -1,18 +1,6 @@
-[
-    {
-        name: "Koalite",
-        url: "https://blog.koalite.com/",
-    },
-    {
-        name: "Variable not found",
-        url: "https://www.variablenotfound.com/",
-    },
-    {
-        name: "Xurxodev",
-        url: "https://xurxodev.com/",
-    },
-    {
-        name: "CarmenIsCoding",
-        url: "https://carmeniscoding.wordpress.com/",
-    }
-]
+{
+    "Koalite": "https://blog.koalite.com/",
+    "Variable not found": "https://www.variablenotfound.com/",
+    "Xurxodev": "https://xurxodev.com/",
+    "CarmenIsCoding": "https://carmeniscoding.wordpress.com/"
+}
